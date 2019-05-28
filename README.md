@@ -1,1 +1,4 @@
 # Text-Mining-in-StackOverFlow
+For me, weekends are not only days where I spend my time with my family and friends, but also where I think about what projects I am going to do in the next few days. I try to select my projects for the subjects are involved and how interesting are for me. This project was thought when I tried to solve a specific issue I had when I reviewed my code made in Python. That's why I checked the best website for programmers (of any language), which is Stack Overflow, to solve my problem. Now, I'll use it not to review my code, but to mine the different questions and answers and make an statistical analysis to the information I can obtain from them.
+
+[To continue, click to Scrapping StackOverFlow.html file or Scrapping StackOverFlow.pdf, the source code is found in Scrapping StackOverFlow.ipynb]
